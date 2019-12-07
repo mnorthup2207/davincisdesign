@@ -1,0 +1,29 @@
+h5{
+    text-decoration: underline;
+    margin-top: .5%;
+}
+
+/* drive train */
+
+.dtpic1{
+    margin-top: 10%;
+}
+
+.dtbox{
+    box-sizing: border-box;
+    border: solid 2px black;
+    padding: 2%;
+}
+
+/* model page */
+
+.modelh4{
+    box-sizing: border-box;
+    border: solid 2px #c84534;
+    margin-top: 1%;
+    padding: 1%;
+    width: 100%;
+    text-align: center;
+    
+
+}
